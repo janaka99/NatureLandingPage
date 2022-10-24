@@ -29,7 +29,7 @@ const Home = () => {
                 <Title2
                     animate={{y:0 , opacity: 1}}
                     initial={{y:40, opacity: 0}}
-                    transition={{duration: 2, delay: 2.5}}
+                    transition={{duration: 2, delay: 1.5}}
                 >Find a beautiful place, and get lost.</Title2>
 
             </TitleContainer>
