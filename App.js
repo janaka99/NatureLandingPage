@@ -1,6 +1,6 @@
 import './App.css';
 import {Routes , Route , useNavigate} from 'react-router-dom'
-import Home from './Pages/Home';
+import Home from './src/Pages/Home';
 
 
 function App() {
