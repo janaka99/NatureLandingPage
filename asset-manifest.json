@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/NatureLandingPage/static/css/main.8e34a009.css",
-    "main.js": "/NatureLandingPage/static/js/main.88beacea.js",
+    "main.js": "/NatureLandingPage/static/js/main.f192bef4.js",
     "static/js/787.b1e0ca1c.chunk.js": "/NatureLandingPage/static/js/787.b1e0ca1c.chunk.js",
     "static/media/background2.jpg": "/NatureLandingPage/static/media/background2.4c2537616f82b181220e.jpg",
     "index.html": "/NatureLandingPage/index.html",
     "main.8e34a009.css.map": "/NatureLandingPage/static/css/main.8e34a009.css.map",
-    "main.88beacea.js.map": "/NatureLandingPage/static/js/main.88beacea.js.map",
+    "main.f192bef4.js.map": "/NatureLandingPage/static/js/main.f192bef4.js.map",
     "787.b1e0ca1c.chunk.js.map": "/NatureLandingPage/static/js/787.b1e0ca1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e34a009.css",
-    "static/js/main.88beacea.js"
+    "static/js/main.f192bef4.js"
   ]
 }
