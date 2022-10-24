@@ -7,7 +7,7 @@ function App() {
   const navigate = useNavigate();
   return (
   <Routes>
-    <Route path="" element={<Home/>} />
+    <Route path="/" element={<Home/>} />
   </Routes>
   );
 }
